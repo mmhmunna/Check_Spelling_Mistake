@@ -1,0 +1,532 @@
+======================================================================= 
+Total Spelling or Grammar Problem   :  89
+=======================================================================
+Problem [1] :- Offset 112, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; Kook; KOK
+...rns', 'INSIDE DHAKA', 'ID# 68661 NESTLÉ Koko Krunch 330gm ৳350 Buy now Add to cart D...
+                                           ^^^^
+==========================================================================
+Problem [2] :- Offset 117, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+... 'INSIDE DHAKA', 'ID# 68661 NESTLÉ Koko Krunch 330gm ৳350 Buy now Add to cart Delivera...
+                                           ^^^^^^
+==========================================================================
+Problem [3] :- Offset 170, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: agent; reagent; dragnet
+...৳350 Buy now Add to cart Deliverable to dgAgent stores Deliverable to dgHubs Deliverabl...
+                                           ^^^^^^^
+==========================================================================
+Problem [4] :- Offset 200, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: hubs; dubs; grubs; daubs; chubs; drubs
+...erable to dgAgent stores Deliverable to dgHubs Deliverable to your Home Delivery info ...
+                                           ^^^^^^
+==========================================================================
+Problem [5] :- Offset 448, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...applicable for this product Description - Product type: Corn Flakes - Brand: Nest...
+                                           ^
+==========================================================================
+Problem [6] :- Offset 476, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Description - Product type: Corn Flakes - Brand: Nestle - Capacity: 330g - Health...
+                                           ^
+==========================================================================
+Problem [7] :- Offset 492, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...oduct type: Corn Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ ...
+                                           ^
+==========================================================================
+Problem [8] :- Offset 509, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Break...
+                                           ^
+==========================================================================
+Problem [9] :- Offset 524, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is ...
+                                           ^
+==========================================================================
+Problem [10] :- Offset 533, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; KOK; KO KO; KOK O
+... Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Wh...
+                                           ^^^^
+==========================================================================
+Problem [11] :- Offset 538, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+...city: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Whole Gra...
+                                           ^^^^^^
+==========================================================================
+Problem [12] :- Offset 644, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...ains more dietary fiber, more nutrition - Source of Iron – Important for healthy ...
+                                           ^
+==========================================================================
+Problem [13] :- Offset 661, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... fiber, more nutrition - Source of Iron – Important for healthy red blood cells -...
+                                           ^
+==========================================================================
+Problem [14] :- Offset 701, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...– Important for healthy red blood cells - Source of Calcium – Required for normal...
+                                           ^
+==========================================================================
+Problem [15] :- Offset 721, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...thy red blood cells - Source of Calcium – Required for normal growth and bone dev...
+                                           ^
+==========================================================================
+Problem [16] :- Offset 783, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...growth and bone development in children - It helps restore energy and provides Vi...
+                                           ^
+==========================================================================
+Problem [17] :- Offset 896, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+... feel super', 'HOME DELIVERY', 'Free', 'Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [18] :- Offset 1101, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...s service you need! Phone: 01879-474747 Deligram About Help Cancellation & Returns Payme...
+                                           ^^^^^^^^
+==========================================================================
+Problem [19] :- Offset 1296, length 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+... Set your pickup point', '5 Days', '705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term...
+                                           ^^^^^^^^^^
+==========================================================================
+Problem [20] :- Offset 1308, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Began; Region; Terrain; Regain; Tension; Reagan; Tehran; Legion; Tendon; Megan; Hexagon; Vegan; Texan; Tongan; Bergson; Teflon; Megaton; Tenon; Teuton; Meagan; Taejon; Decagon; Terran; Gurgaon; Jalgaon; Keegan; Tetragon
+...ckup point', '5 Days', '705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term of Use P...
+                                           ^^^^^^^
+==========================================================================
+Problem [21] :- Offset 1376, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...olicy Term of Use Privacy Policy © 2021 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [22] :- Offset 1401, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’
+Suggestion: An
+... Policy © 2021 Deligram Technology Ltd. A affiliated company', 'ID# 68661 NESTLÉ ...
+                                           ^
+==========================================================================
+Problem [23] :- Offset 1442, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; Kook; KOK
+... affiliated company', 'ID# 68661 NESTLÉ Koko Krunch 330gm ৳350 Buy now Add to cart D...
+                                           ^^^^
+==========================================================================
+Problem [24] :- Offset 1447, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+...liated company', 'ID# 68661 NESTLÉ Koko Krunch 330gm ৳350 Buy now Add to cart Delivera...
+                                           ^^^^^^
+==========================================================================
+Problem [25] :- Offset 1500, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: agent; reagent; dragnet
+...৳350 Buy now Add to cart Deliverable to dgAgent stores Deliverable to dgHubs Deliverabl...
+                                           ^^^^^^^
+==========================================================================
+Problem [26] :- Offset 1530, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: hubs; dubs; grubs; daubs; chubs; drubs
+...erable to dgAgent stores Deliverable to dgHubs Deliverable to your Home', 'AGENT PICKU...
+                                           ^^^^^^
+==========================================================================
+Problem [27] :- Offset 1649, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...DE DHAKA 5 Days OUTSIDE DHAKA 8 Days', 'Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [28] :- Offset 1983, length 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...ct', 'OUTSIDE DHAKA 8 Days', '8 Days', 'বাংলা Sign-in', 'Delivery info AGENT PICKUP F...
+                                           ^^^^^
+==========================================================================
+Problem [29] :- Offset 2167, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: hubs; dubs; grubs; daubs; chubs; drubs
+...ckup point', 'Payment', 'Deliverable to dgHubs', 'AGENT PICKUP', '- Product type: Corn...
+                                           ^^^^^^
+==========================================================================
+Problem [30] :- Offset 2221, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...T PICKUP', '- Product type: Corn Flakes - Brand: Nestle - Capacity: 330g - Health...
+                                           ^
+==========================================================================
+Problem [31] :- Offset 2237, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...oduct type: Corn Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ ...
+                                           ^
+==========================================================================
+Problem [32] :- Offset 2254, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Break...
+                                           ^
+==========================================================================
+Problem [33] :- Offset 2269, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is ...
+                                           ^
+==========================================================================
+Problem [34] :- Offset 2278, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; KOK; KO KO; KOK O
+... Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Wh...
+                                           ^^^^
+==========================================================================
+Problem [35] :- Offset 2283, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+...city: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Whole Gra...
+                                           ^^^^^^
+==========================================================================
+Problem [36] :- Offset 2389, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...ains more dietary fiber, more nutrition - Source of Iron – Important for healthy ...
+                                           ^
+==========================================================================
+Problem [37] :- Offset 2406, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... fiber, more nutrition - Source of Iron – Important for healthy red blood cells -...
+                                           ^
+==========================================================================
+Problem [38] :- Offset 2446, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...– Important for healthy red blood cells - Source of Calcium – Required for normal...
+                                           ^
+==========================================================================
+Problem [39] :- Offset 2466, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...thy red blood cells - Source of Calcium – Required for normal growth and bone dev...
+                                           ^
+==========================================================================
+Problem [40] :- Offset 2528, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...growth and bone development in children - It helps restore energy and provides Vi...
+                                           ^
+==========================================================================
+Problem [41] :- Offset 2701, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: agent; reagent; dragnet
+...e', 'Buy now Add to cart Deliverable to dgAgent stores Deliverable to dgHubs Deliverabl...
+                                           ^^^^^^^
+==========================================================================
+Problem [42] :- Offset 2731, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: hubs; dubs; grubs; daubs; chubs; drubs
+...erable to dgAgent stores Deliverable to dgHubs Deliverable to your Home', 'Estimated d...
+                                           ^^^^^^
+==========================================================================
+Problem [43] :- Offset 2793, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...your Home', 'Estimated delivery time', 'Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [44] :- Offset 2998, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...s service you need! Phone: 01879-474747 Deligram About Help Cancellation & Returns Payme...
+                                           ^^^^^^^^
+==========================================================================
+Problem [45] :- Offset 3053, length 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...Help Cancellation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term...
+                                           ^^^^^^^^^^
+==========================================================================
+Problem [46] :- Offset 3065, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Began; Region; Terrain; Regain; Tension; Reagan; Tehran; Legion; Tendon; Megan; Hexagon; Vegan; Texan; Tongan; Bergson; Teflon; Megaton; Tenon; Teuton; Meagan; Taejon; Decagon; Terran; Gurgaon; Jalgaon; Keegan; Tetragon
+...ation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term of Use P...
+                                           ^^^^^^^
+==========================================================================
+Problem [47] :- Offset 3133, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...olicy Term of Use Privacy Policy © 2021 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [48] :- Offset 3158, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’
+Suggestion: An
+... Policy © 2021 Deligram Technology Ltd. A affiliated company', '© 2021 Deligram T...
+                                           ^
+==========================================================================
+Problem [49] :- Offset 3189, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...ogy Ltd. A affiliated company', '© 2021 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [50] :- Offset 3214, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’
+Suggestion: An
+...pany', '© 2021 Deligram Technology Ltd. A affiliated company', '৳ 60', 'Descripti...
+                                           ^
+==========================================================================
+Problem [51] :- Offset 3258, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...filiated company', '৳ 60', 'Description - Product type: Corn Flakes - Brand: Nest...
+                                           ^
+==========================================================================
+Problem [52] :- Offset 3286, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Description - Product type: Corn Flakes - Brand: Nestle - Capacity: 330g - Health...
+                                           ^
+==========================================================================
+Problem [53] :- Offset 3302, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...oduct type: Corn Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ ...
+                                           ^
+==========================================================================
+Problem [54] :- Offset 3319, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Break...
+                                           ^
+==========================================================================
+Problem [55] :- Offset 3334, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is ...
+                                           ^
+==========================================================================
+Problem [56] :- Offset 3343, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; KOK; KO KO; KOK O
+... Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Wh...
+                                           ^^^^
+==========================================================================
+Problem [57] :- Offset 3348, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+...city: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Whole Gra...
+                                           ^^^^^^
+==========================================================================
+Problem [58] :- Offset 3454, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...ains more dietary fiber, more nutrition - Source of Iron – Important for healthy ...
+                                           ^
+==========================================================================
+Problem [59] :- Offset 3471, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... fiber, more nutrition - Source of Iron – Important for healthy red blood cells -...
+                                           ^
+==========================================================================
+Problem [60] :- Offset 3511, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...– Important for healthy red blood cells - Source of Calcium – Required for normal...
+                                           ^
+==========================================================================
+Problem [61] :- Offset 3531, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...thy red blood cells - Source of Calcium – Required for normal growth and bone dev...
+                                           ^
+==========================================================================
+Problem [62] :- Offset 3593, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...growth and bone development in children - It helps restore energy and provides Vi...
+                                           ^
+==========================================================================
+Problem [63] :- Offset 3764, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+... this product', 'Buy now Add to cart', 'Deligram About', 'Delivery info', 'Deliverable t...
+                                           ^^^^^^^^
+==========================================================================
+Problem [64] :- Offset 3814, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: agent; reagent; dragnet
+...bout', 'Delivery info', 'Deliverable to dgAgent stores', 'Features', 'Description', 'De...
+                                           ^^^^^^^
+==========================================================================
+Problem [65] :- Offset 3874, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: agent; reagent; dragnet
+...atures', 'Description', 'Deliverable to dgAgent stores Deliverable to dgHubs Deliverabl...
+                                           ^^^^^^^
+==========================================================================
+Problem [66] :- Offset 3904, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: hubs; dubs; grubs; daubs; chubs; drubs
+...erable to dgAgent stores Deliverable to dgHubs Deliverable to your Home', 'বাংলা Sign-...
+                                           ^^^^^^
+==========================================================================
+Problem [67] :- Offset 3939, length 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...e to dgHubs Deliverable to your Home', 'বাংলা Sign-in ID# 68661 NESTLÉ Koko Krunch 33...
+                                           ^^^^^
+==========================================================================
+Problem [68] :- Offset 3970, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; Kook; KOK
+... Home', 'বাংলা Sign-in ID# 68661 NESTLÉ Koko Krunch 330gm ৳350 Buy now Add to cart D...
+                                           ^^^^
+==========================================================================
+Problem [69] :- Offset 3975, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+...', 'বাংলা Sign-in ID# 68661 NESTLÉ Koko Krunch 330gm ৳350 Buy now Add to cart Delivera...
+                                           ^^^^^^
+==========================================================================
+Problem [70] :- Offset 4028, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: agent; reagent; dragnet
+...৳350 Buy now Add to cart Deliverable to dgAgent stores Deliverable to dgHubs Deliverabl...
+                                           ^^^^^^^
+==========================================================================
+Problem [71] :- Offset 4058, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: hubs; dubs; grubs; daubs; chubs; drubs
+...erable to dgAgent stores Deliverable to dgHubs Deliverable to your Home Delivery info ...
+                                           ^^^^^^
+==========================================================================
+Problem [72] :- Offset 4306, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...applicable for this product Description - Product type: Corn Flakes - Brand: Nest...
+                                           ^
+==========================================================================
+Problem [73] :- Offset 4334, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Description - Product type: Corn Flakes - Brand: Nestle - Capacity: 330g - Health...
+                                           ^
+==========================================================================
+Problem [74] :- Offset 4350, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...oduct type: Corn Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ ...
+                                           ^
+==========================================================================
+Problem [75] :- Offset 4367, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...Flakes - Brand: Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Break...
+                                           ^
+==========================================================================
+Problem [76] :- Offset 4382, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... Nestle - Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is ...
+                                           ^
+==========================================================================
+Problem [77] :- Offset 4391, length 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Yoko; KOK; KO KO; KOK O
+... Capacity: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Wh...
+                                           ^^^^
+==========================================================================
+Problem [78] :- Offset 4396, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Crunch; Brunch
+...city: 330g - Healthy Food - NESTLÉ KOKO KRUNCH Breakfast Cereal is made with Whole Gra...
+                                           ^^^^^^
+==========================================================================
+Problem [79] :- Offset 4502, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...ains more dietary fiber, more nutrition - Source of Iron – Important for healthy ...
+                                           ^
+==========================================================================
+Problem [80] :- Offset 4519, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+... fiber, more nutrition - Source of Iron – Important for healthy red blood cells -...
+                                           ^
+==========================================================================
+Problem [81] :- Offset 4559, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...– Important for healthy red blood cells - Source of Calcium – Required for normal...
+                                           ^
+==========================================================================
+Problem [82] :- Offset 4579, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...thy red blood cells - Source of Calcium – Required for normal growth and bone dev...
+                                           ^
+==========================================================================
+Problem [83] :- Offset 4641, length 1, Rule ID: DASH_RULE
+Message: Consider using an m-dash if you do not want to join two words.
+Suggestion: —
+...growth and bone development in children - It helps restore energy and provides Vi...
+                                           ^
+==========================================================================
+Problem [84] :- Offset 4726, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...ns and Minerals to help them feel super Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [85] :- Offset 4931, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...s service you need! Phone: 01879-474747 Deligram About Help Cancellation & Returns Payme...
+                                           ^^^^^^^^
+==========================================================================
+Problem [86] :- Offset 4986, length 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...Help Cancellation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term...
+                                           ^^^^^^^^^^
+==========================================================================
+Problem [87] :- Offset 4998, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Began; Region; Terrain; Regain; Tension; Reagan; Tehran; Legion; Tendon; Megan; Hexagon; Vegan; Texan; Tongan; Bergson; Teflon; Megaton; Tenon; Teuton; Meagan; Taejon; Decagon; Terran; Gurgaon; Jalgaon; Keegan; Tetragon
+...ation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term of Use P...
+                                           ^^^^^^^
+==========================================================================
+Problem [88] :- Offset 5066, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...olicy Term of Use Privacy Policy © 2021 Deligram Technology Ltd. A affiliated company'}
+                                           ^^^^^^^^
+==========================================================================
+Problem [89] :- Offset 5091, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’
+Suggestion: An
+... Policy © 2021 Deligram Technology Ltd. A affiliated company'}
+                                           ^
+==========================================================================
